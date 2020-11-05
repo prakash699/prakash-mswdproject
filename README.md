@@ -1,6 +1,6 @@
 # #️⃣ TicTacToe
 
-[![License: KL UNIVERSITY](https://img.shields.io/badge/License-KLU-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: KL UNIVERSITY](https://img.shields.io/badge/License-KLU-blue.svg)](https://www.kluniversity.in/)
 
 Simple Tic Tac Toe implementation in TypeScript.
 
