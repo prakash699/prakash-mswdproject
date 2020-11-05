@@ -1,0 +1,21 @@
+{
+  "name": "tictactoe",
+  "version": "0.1.0",
+  "description": "Tic Tac Toe in TypeScript.",
+  "author": {
+    "name": "prakash",
+    "email": "king9prakash@gmail.com",
+    "url": "https://www.king9prakash.com"
+  },
+  "main": "dist/tictactoe.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "license": "KLU",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^11.13.8",
+    "typescript": "^3.4.5"
+  }
+}
